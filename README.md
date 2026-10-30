@@ -103,3 +103,5 @@ Este é um MVP inicial, não uma certificação de segurança nem parecer juríd
 - faça testes de segurança e de autorização.
 
 A chave `service_role` ignora RLS. Por isso, a API precisa manter validações de autenticação e autorização rigorosas. Não exponha essa chave.
+# Mural-FEB
+Repositório para código do projeto para hackathon Unifeb 2026  SESINFO
